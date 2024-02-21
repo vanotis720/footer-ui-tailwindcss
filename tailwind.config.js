@@ -6,6 +6,7 @@ module.exports = {
       fontFamily: {
         'roboto-slab': ['"Roboto Slab"', 'serif'],
         'roboto': ['"Roboto"', 'sans-serif'],
+        'mukta': ['"Mukta"', 'sans-serif'],
       }
     },
     content: [],
