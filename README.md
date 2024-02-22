@@ -56,7 +56,7 @@ All you need is Node.js (because i use postcss with tailwindCSS) installed and a
 
 ## Contact
 
-VAnder Otis - [Linkedin](https://www.linkedin.com/in/vancodes/) -
+Vander Otis - [Linkedin](https://www.linkedin.com/in/vancodes/) -
 vanotis720@gmail.com
 
 Project Link: [https://github.com/vanotis720/footer-ui-tailwindcss](https://github.com/vanotis720/footer-ui-tailwindcss)
